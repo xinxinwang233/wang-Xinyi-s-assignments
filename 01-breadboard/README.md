@@ -1,11 +1,10 @@
-# 使用面包版DIY制作一个arduino/DIY an arduino using a breadboard
+# DIY an arduino using a breadboard
 
-**前言/Foreword**
+**Foreword**
 
-这个帖子将事无巨细地告诉大家如何用几个零件和一个面包版做一个arduino，这样就不需要购买一个arduino。同时，帖子也会包含零件的基本介绍，也将会更加深度地了解电路板的构造。
+This post will show you in great detail how to make an arduino with a few parts and a bread plate, so that you don't need to buy an arduino. At the same time, the post will also contain a basic introduction to the parts, but also will be more in-depth understanding of the board structure.
 
-## PART 1 认识所用到的元器件，在arduino上的位置以及它们的功能
-arduino的图片和今天所使用的零件的对应图片，用连接线，表序号并写名字
+## PART 1 Know the components used, their position on the arduino, and their functions
 
 ![1.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/1.png)
 
