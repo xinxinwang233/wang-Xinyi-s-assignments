@@ -1,4 +1,4 @@
-# 使用面包版DIY制作一个arduino/DIY an arduino using a breadboard
+![image](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/09cc73c1-17c3-4f86-a84e-7bcfbfc4085f)# 使用面包版DIY制作一个arduino/DIY an arduino using a breadboard
 
 **前言/Foreword**
 
@@ -6,6 +6,7 @@
 
 ## PART 1 认识所用到的元器件，在arduino上的位置以及它们的功能
 arduino的图片和今天所使用的零件的对应图片，用连接线，表序号并写名字
+
 1. Resistor
 2. Ceramic capacitor (tiny one)
 3. Electrolytic capacitor big black one)
