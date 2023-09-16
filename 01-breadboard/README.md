@@ -8,7 +8,7 @@
 arduino的图片和今天所使用的零件的对应图片，用连接线，表序号并写名字
 
 ![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-![image](https://github.com/xxx/xxx/blob/master/xxx/xxx.png)
+![1.webp](01-breadboard/images/1.webp）
 
 original picture of arduino
 
