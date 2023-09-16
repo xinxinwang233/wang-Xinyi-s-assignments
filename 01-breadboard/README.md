@@ -21,18 +21,13 @@
 ## PART 3 与电脑的链接和测试
 * 下载软件silicon labs
 * 链接电脑与上传
-1. 
+1. 增加一个灯在13引脚，并编写相应程序
+2. 连线给usb头和面包版
+3. 连接电脑，检查是否冒烟，是否发烫
+4. 上传文件并显示成功
+5. 上传失败的debug方法
+6. 成功的小灯闪烁
 
-
-bullet point list
-* item one
-* item two
-* itemeidteditedit
-
-numbered list
-1. item one
-2. item two
-3. item three
 
 **bold text**
 
