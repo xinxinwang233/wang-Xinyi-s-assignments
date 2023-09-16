@@ -9,17 +9,16 @@ arduino的图片和今天所使用的零件的对应图片，用连接线，表�
 
 ![1.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/1.png)
 
+1. **USB socket**
+   Arduino board can be powered by using the USB cable from your computer. All you need to do is connect the USB cable to the USB connection.
+3. **Crystal Oscillator**
+   The crystal oscillator helps Arduino in dealing with time issues. The number printed on top of the Arduino crystal is 16.000H9H. It tells us that the frequency is 16,000,000 Hertz or 16 MHz.
+5. **Voltage Regulator**
+   The function of the voltage regulator is to control the voltage given to the Arduino board and stabilize the DC voltages used by the processor and other elements.
+7. **Electrolytic capacitor**
+8. **Main microcontroller(ATMega328p)**
+   Each Arduino board has its own microcontroller. You can assume it as the brain of your board. The main IC (integrated circuit) on the Arduino is slightly different from board to board. The microcontrollers are usually of the ATMEL Company. You must know what IC your board has before loading up a new program from the Arduino IDE. This information is available on the top of the IC. For more details about the IC construction and functions, you can refer to the data sheet.
 
-original picture of arduino
-
-1. Resistor
-2. Ceramic capacitor (tiny one)
-3. Electrolytic capacitor big black one)
-4. LED diode
-5. Voltage Regulator (Transistor)
-6. Crystal Oscillator
-7. Microcontroller (ATMega328p)
-8. Pin Headers and Jumper Wires
 ## PART 2 把它们装在面包板上面，并一步一步安装，每一步的注意点
   在最前面的简单问题：
 * 戳到什么程度刚好
