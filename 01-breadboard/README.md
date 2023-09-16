@@ -4,22 +4,16 @@
 
 这个帖子将事无巨细地告诉大家如何用几个零件和一个面包版做一个arduino，这样就不需要购买一个arduino。同时，帖子也会包含零件的基本介绍，也将会更加深度地了解电路板的构造。
 
-
-一·认识所用到的元器件，在arduino上的位置以及它们的功能
-
-二·把它们装在面包板上面，并一步一步安装，每一步的注意点
+## PART 1 认识所用到的元器件，在arduino上的位置以及它们的功能
+## PART 2 把它们装在面包板上面，并一步一步安装，每一步的注意点
   在最前面：
-  戳到什么程度刚好
-  针脚歪掉怎么捋直
-三·与电脑的链接和测试
+* 戳到什么程度刚好
+* 针脚歪掉怎么捋直
+  
+## PART 3 与电脑的链接和测试
   下载某个软件
   链接电脑与上传
 
-## Assignment's description
-Describe the assignment
-
-## Documentation
-Describe the work you did to complete the assignment
 
 bullet point list
 * item one
