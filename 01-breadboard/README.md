@@ -1,3 +1,5 @@
+# 使用面包版DIY制作一个arduino/DIY an arduino using a breadboard
+
 **前言/Foreword**
 
 这个帖子将事无巨细地告诉大家如何用几个零件和一个面包版做一个arduino，这样就不需要购买一个arduino。同时，帖子也会包含零件的基本介绍，也将会更加深度地了解电路板的构造。
@@ -5,7 +7,7 @@
 ## PART 1 认识所用到的元器件，在arduino上的位置以及它们的功能
 arduino的图片和今天所使用的零件的对应图片，用连接线，表序号并写名字
 
-![image](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/09cc73c1-17c3-4f86-a84e-7bcfbfc4085f)# 使用面包版DIY制作一个arduino/DIY an arduino using a breadboard
+![image](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/09cc73c1-17c3-4f86-a84e-7bcfbfc4085f)
 
 1. Resistor
 2. Ceramic capacitor (tiny one)
