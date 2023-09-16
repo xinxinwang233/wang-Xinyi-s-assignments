@@ -1,9 +1,12 @@
 # 使用面包版DIY制作一个arduino/DIY an arduino using a breadboard
+
 **前言/Foreword**
+
 为什么要用面包版制作一个arduino
 
 
 一·认识所用到的元器件，在arduino上的位置以及它们的功能
+
 二·把它们装在面包板上面，并一步一步安装，每一步的注意点
   在最前面：
   戳到什么程度刚好
