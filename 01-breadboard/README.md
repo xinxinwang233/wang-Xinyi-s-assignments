@@ -7,7 +7,7 @@
 ## PART 1 认识所用到的元器件，在arduino上的位置以及它们的功能
 arduino的图片和今天所使用的零件的对应图片，用连接线，表序号并写名字
 
-![1.webp](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/1.webp)
+![1.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/1.png)
 
 
 original picture of arduino
