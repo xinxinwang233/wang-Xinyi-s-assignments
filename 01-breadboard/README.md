@@ -8,6 +8,7 @@
 arduino的图片和今天所使用的零件的对应图片，用连接线，表序号并写名字
 
 ![image](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/09cc73c1-17c3-4f86-a84e-7bcfbfc4085f)
+
 original picture of arduino
 
 1. Resistor
