@@ -52,13 +52,24 @@ This post will show you in great detail how to make an arduino with a few parts 
 ![3.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/3.png)
 
 
-8. atmel板加上计时器，和两个小电容
-9. 并连一个小灯和它的电阻，来检查整个电路的有效性
+8. Crystal Oscillator For The ATMega328p
+
+   The ATMega328p is coupled with a crystal oscillator, and two small capacitors are connected to the crystal oscillator, and the other end of the small capacitor is connected to the negative electrode of the circuit.
+
+一个没有连usb和小灯的电路图
+
+10. Connect an LED light to the circuit to detect whether the circuit is powered on or not
+
+   LEDs need a resistor to prevent them from burning out, and I burned out a small LED light while making them. This is my second one.
+
+一个没有连usb的电路图
 
 ## PART 3 与电脑的链接和测试
 
-* 下载软件silicon labs
-* 链接电脑与上传
+* Download ‘silicon labs’ and install:：https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+* Connect the usb to the computer
+  
+  In arduino,
   
 1. 增加一个灯在13引脚，并编写相应程序
 2. 连线给usb头和面包版
