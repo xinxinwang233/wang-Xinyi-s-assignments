@@ -81,7 +81,7 @@ In the comments, we can see that pin 13 is LED_BUILTIN. So in the next step we w
 
 2. 连线给usb头和面包版
 
-现在的图
+![c2.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c2.jpg)
 
 3. 连接电脑，检查是否冒烟，是否发烫
 
