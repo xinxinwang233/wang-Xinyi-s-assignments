@@ -30,6 +30,7 @@ This post will show you in great detail how to make an arduino with a few parts 
   
 1. 准备一个面包板 图：空白面包板
 2. 连接两侧通路
+   
 ![arduinobb_03.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/arduinobb_03.jpg)
 4. 变压器和两个电容（稳压器）
 5. atmel板和它的火线地线和reset
