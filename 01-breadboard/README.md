@@ -23,8 +23,8 @@ This post will show you in great detail how to make an arduino with a few parts 
    
    Each Arduino board has its own microcontroller. You can assume it as the brain of your board. The main IC (integrated circuit) on the Arduino is slightly different from board to board. The microcontrollers are usually of the ATMEL Company. You must know what IC your board has before loading up a new program from the Arduino IDE. This information is available on the top of the IC. For more details about the IC construction and functions, you can refer to the data sheet.
 
-## PART 2 把它们装在面包板上面，并一步一步安装，每一步的注意点
-  在最前面的简单问题：
+## PART 2 Attach them to the breadboard step by step
+  Attention:
 * 戳到什么程度刚好
 * 针脚歪掉怎么捋直（不要浪费）
 * 任何元件正负极的检查
