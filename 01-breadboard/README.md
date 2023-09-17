@@ -56,13 +56,13 @@ This post will show you in great detail how to make an arduino with a few parts 
 
    The ATMega328p is coupled with a crystal oscillator, and two small capacitors are connected to the crystal oscillator, and the other end of the small capacitor is connected to the negative electrode of the circuit.
 
-一个没有连usb和13号灯和小灯的电路图
+![b5.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/b5.jpg)
 
 10. Connect an LED light to the circuit to detect whether the circuit is powered on or not
 
    LEDs need a resistor to prevent them from burning out, and I burned out a small LED light while making them. This is my second one.
-
-一个没有连usb和13号灯的电路图
+   
+![b6.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/b6.jpg)
 
 ## PART 3 与电脑的链接和测试
 
