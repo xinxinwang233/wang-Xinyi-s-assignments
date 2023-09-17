@@ -79,9 +79,12 @@ In the comments, we can see that pin 13 is LED_BUILTIN. So in the next step we w
 
 一个没有usb的电路图
 
-2. 连线给usb头和面包版
+2. Connect the usb socket and ATMega328p
 
+   There are five wires - between usb socket and ATMega328p, rx connected to tx, tx connected to rx, vcc and gnd connect to the positive and negative terminals of the circuit. The dtr is connected to the first hole of the ATMega328p with a small capacitor together.
+   
 ![c2.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c2.jpg)
+![c5.jepg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c5.jepg)
 
 3. 连接电脑，检查是否冒烟，是否发烫
 
