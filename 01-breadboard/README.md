@@ -36,7 +36,7 @@ This post will show you in great detail how to make an arduino with a few parts 
 
    I used two lines to connect the positive and negative poles on the left and right side of the breadboard.
 
-![arduinobb_03.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/arduinobb_03.jpg)
+![b2.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/b2.jpg)
 
 4. Transformer and two capacitors (voltage regulator)
    
@@ -63,7 +63,7 @@ This post will show you in great detail how to make an arduino with a few parts 
    
 ![b6.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/b6.jpg)
 
-## PART 3 与电脑的链接和测试
+## PART 3 Connection and test with the computer
 
 * Download ‘silicon labs’ and install:：https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 * Connect the usb to the computer
@@ -87,11 +87,15 @@ In the comments, we can see that pin 13 is LED_BUILTIN. So in the next step we w
 ![c2.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c2.jpg)
 ![c5.JPEG](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c5.JPEG)
 
-4. 连接电脑，检查是否冒烟，是否发烫
+4. Connect the computer
+
+   The first thing was to check if it was smoking, if it was hot, which luckily I didn't have. If not, you need to debug, check whether the positive and negative terminals are reversed or the electronic components are broken.
 
 ![c1.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c1.jpg)
 
-4. 上传文件并显示成功
+4. Go upload test file
+
+   Go to arduino and open the test file called blink and upload it
 
 ![c3.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c3.png)
 
