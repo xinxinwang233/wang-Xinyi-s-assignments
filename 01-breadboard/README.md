@@ -82,11 +82,12 @@ In the comments, we can see that pin 13 is LED_BUILTIN. So in the next step we w
 2. Connect the usb socket and ATMega328p
 
    There are five wires - between usb socket and ATMega328p, rx connected to tx, tx connected to rx, vcc and gnd connect to the positive and negative terminals of the circuit. The dtr is connected to the first hole of the ATMega328p with a small capacitor together.
-   
+
+![c8.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c8.jpg)
 ![c2.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c2.jpg)
 ![c5.JPEG](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c5.JPEG)
 
-3. 连接电脑，检查是否冒烟，是否发烫
+4. 连接电脑，检查是否冒烟，是否发烫
 
 ![c1.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c1.jpg)
 
