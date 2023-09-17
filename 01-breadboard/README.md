@@ -42,15 +42,14 @@ This post will show you in great detail how to make an arduino with a few parts 
    
    These electronics keeps the voltage entering the circuit steady at 5v. We use two capacitors in the two input ports of the transformer, here we must pay attention to the positive and negative terminals, can not be connected in reverse.
    
-图：只有空白面包板、连了线和变压器和两个电容2
+![b3.JPEG](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/b3.JPEG)
 
 6. Connect the Main microcontroller ATMega328p
 
    The ATMega328p has a small dot in the upper left corner, plug the first row of pins into position 11 of the breadboard. According to the pin instructions of ATMega328p, connect it with the live wire and ground wire (positive and negative), and the other end should also be connected to the positive and negative terminals of the entire circuit.
 
 ![5.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/5.png)
-![3.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/3.png)
-
+![b4.JPEG](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/b4.JPEG)
 
 8. Crystal Oscillator For The ATMega328p
 
