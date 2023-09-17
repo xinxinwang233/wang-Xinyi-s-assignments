@@ -73,11 +73,12 @@ This post will show you in great detail how to make an arduino with a few parts 
   
 ![arduino1.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/arduino1.png)
 ![arduino2.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/arduino2.png)
+
 In the comments, we can see that pin 13 is LED_BUILTIN. So in the next step we will connect an LED to pin 13.
 
-1. 增加一个灯在13引脚
+1. Add an LED on the 13 pins
 
-一个没有usb的电路图
+![b7.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/b7.jpg)
 
 2. Connect the usb socket and ATMega328p
 
