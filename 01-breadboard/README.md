@@ -28,15 +28,18 @@ This post will show you in great detail how to make an arduino with a few parts 
 * How to straighten a pin if it's crooked (Don't waste it)
 * Check the positive and negative
   
-1. 准备一个面包板 图：空白面包板
-2. 连接两侧通路
-   
+1. 准备一个面包板 图：空白面包板1
+2. Connecting two paths
+
 ![arduinobb_03.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/arduinobb_03.jpg)
 
-4. 变压器和两个电容（稳压器）
-5. atmel板和它的火线地线和reset
-6. atmel板加上计时器，和两个小电容
-7. 并连一个小灯和它的电阻，来检查整个电路的有效性
+4. 变压器和两个电容（稳压器）Transformer and two capacitors (voltage regulator)
+These electronics keeps the voltage entering the circuit steady at 5v.
+图：只有空白面包板、连了线和变压器和两个电容2
+6. atmel板和它的火线地线和reset
+
+8. atmel板加上计时器，和两个小电容
+9. 并连一个小灯和它的电阻，来检查整个电路的有效性
 
 ## PART 3 与电脑的链接和测试
 
