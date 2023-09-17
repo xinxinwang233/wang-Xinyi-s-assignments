@@ -46,8 +46,9 @@ This post will show you in great detail how to make an arduino with a few parts 
 
 6. Connect the Main microcontroller ATMega328p
 
-   The ATMega328p has a small dot in the upper left corner, plug the first row of pins into position 11 of the breadboard.
+   The ATMega328p has a small dot in the upper left corner, plug the first row of pins into position 11 of the breadboard. According to the pin instructions of ATMega328p, connect it with the live wire and ground wire (positive and negative), and the other end should also be connected to the positive and negative terminals of the entire circuit.
 
+![5.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/5.png)
 ![3.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/3.png)
 
 
