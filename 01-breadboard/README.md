@@ -28,16 +28,25 @@ This post will show you in great detail how to make an arduino with a few parts 
 * How to straighten a pin if it's crooked (Don't waste it)
 * Check the positive and negative
   
-1. 准备一个面包板 图：空白面包板1
-2. Connecting two paths
+1. Take out a breadboard
+
+   We need to know which holes on the breadboard are connected to each other, and if you look at this diagram, the holes represented by the red and blue lines on both sides are connected to each other, and the holes in the middle are connected horizontally
+
+3. Connecting two paths
+
+   I used two lines to connect the positive and negative poles on the left and right side of the breadboard.
 
 ![arduinobb_03.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/arduinobb_03.jpg)
 
 4. Transformer and two capacitors (voltage regulator)
-These electronics keeps the voltage entering the circuit steady at 5v.
+   
+   These electronics keeps the voltage entering the circuit steady at 5v. We use two capacitors in the two input ports of the transformer, here we must pay attention to the positive and negative terminals, can not be connected in reverse.
+   
 图：只有空白面包板、连了线和变压器和两个电容2
 
-6. atmel板和它的火线地线和reset
+6. Connect the Main microcontroller ATMega328p
+
+   The ATMega328p has a small dot in the upper left corner, plug the first row of pins into position 11 of the breadboard.
 
 ![3.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/3.png)
 
