@@ -56,28 +56,45 @@ This post will show you in great detail how to make an arduino with a few parts 
 
    The ATMega328p is coupled with a crystal oscillator, and two small capacitors are connected to the crystal oscillator, and the other end of the small capacitor is connected to the negative electrode of the circuit.
 
-一个没有连usb和小灯的电路图
+一个没有连usb和13号灯和小灯的电路图
 
 10. Connect an LED light to the circuit to detect whether the circuit is powered on or not
 
    LEDs need a resistor to prevent them from burning out, and I burned out a small LED light while making them. This is my second one.
 
-一个没有连usb的电路图
+一个没有连usb和13号灯的电路图
 
 ## PART 3 与电脑的链接和测试
 
 * Download ‘silicon labs’ and install:：https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 * Connect the usb to the computer
   
-  In arduino,
+  In arduino, open the blink file in example.
   
-1. 增加一个灯在13引脚，并编写相应程序
-2. 连线给usb头和面包版
-3. 连接电脑，检查是否冒烟，是否发烫
-4. 上传文件并显示成功
-5. 上传失败的debug方法
-6. 成功的小灯闪烁
+![arduino1.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/arduino1.png)
+![arduino2.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/arduino2.png)
+In the comments, we can see that pin 13 is LED_BUILTIN. So in the next step we will connect an LED to pin 13.
 
+1. 增加一个灯在13引脚
+
+一个没有usb的电路图
+
+2. 连线给usb头和面包版
+
+现在的图
+
+3. 连接电脑，检查是否冒烟，是否发烫
+
+连电脑图
+
+4. 上传文件并显示成功
+
+成功截图
+
+
+5. 成功的小灯闪烁
+
+小灯闪烁图
 
 **bold text**
 
