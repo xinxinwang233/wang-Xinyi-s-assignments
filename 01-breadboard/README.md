@@ -25,20 +25,22 @@ This post will show you in great detail how to make an arduino with a few parts 
 
 ## PART 2 Attach them to the breadboard step by step
   Attention:
-* 戳到什么程度刚好
-* 针脚歪掉怎么捋直（不要浪费）
-* 任何元件正负极的检查
+* How to straighten a pin if it's crooked (Don't waste it)
+* Check the positive and negative
   
-1. 准备一个面包板
+1. 准备一个面包板 图：空白面包板
 2. 连接两侧通路
-3. 变压器和两个电容（稳压器）
-4. atmel板和它的火线地线和reset
-5. atmel板加上计时器，和两个小电容
-6. 并连一个小灯和它的电阻，来检查整个电路的有效性
+   
+4. 变压器和两个电容（稳压器）
+5. atmel板和它的火线地线和reset
+6. atmel板加上计时器，和两个小电容
+7. 并连一个小灯和它的电阻，来检查整个电路的有效性
 
 ## PART 3 与电脑的链接和测试
+
 * 下载软件silicon labs
 * 链接电脑与上传
+  
 1. 增加一个灯在13引脚，并编写相应程序
 2. 连线给usb头和面包版
 3. 连接电脑，检查是否冒烟，是否发烫
