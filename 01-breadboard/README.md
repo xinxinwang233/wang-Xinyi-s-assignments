@@ -89,12 +89,12 @@ In the comments, we can see that pin 13 is LED_BUILTIN. So in the next step we w
 
 4. 上传文件并显示成功
 
-成功截图
+![c3.png](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c3.png)
 
 
 5. 成功的小灯闪烁
 
-小灯闪烁图
+![c4.GIF](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c4.GIF)
 
 **bold text**
 
