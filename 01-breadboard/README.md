@@ -85,7 +85,7 @@ In the comments, we can see that pin 13 is LED_BUILTIN. So in the next step we w
 
 3. 连接电脑，检查是否冒烟，是否发烫
 
-连电脑图
+![c1.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/01-breadboard/images/c1.jpg)
 
 4. 上传文件并显示成功
 
