@@ -46,7 +46,13 @@ And I get some feedback
 # watersensor
 
 I attached the sensor to my breadboard and put it in a water glass
-
+When placed in a low water level: 
 ![IMG_8974.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8974.jpg)  
 
+![IMG_8974.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/截屏2023-09-21%2012.21.33.png)  
+
+When placed in a high water level: 
+
 ![IMG_8973.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8973.jpg)  
+
+![IMG_8973.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/截屏2023-09-21%2012.21.45.png)  
