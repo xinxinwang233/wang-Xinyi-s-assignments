@@ -4,9 +4,13 @@ This is a vibration sensor, it has a vcc pin, a gnd pin and a signal pin, I conn
 ![IMG_8972.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8972.jpg)  
 
 ![IMG_8968.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8968.jpg)  
-When I vibrate this vibration sensor, the light on the sensor lights up accordingly, and in theory, it briefly sends out a signal.  
-![IMG_8953.GIF](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8953.GIF)  
-This is the code I wrote.  
+
+When I vibrate this vibration sensor, the light on the sensor lights up accordingly, and in theory, it briefly sends out a signal.
+
+![IMG_8953.GIF](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8953.GIF)
+
+This is the code I wrote.
+
 ```
 int ledpin=11;                   // Set led pin at Arduino pin 11  
 int shocksensor=3;               // Set sensor pin at Arduino pin 8  
