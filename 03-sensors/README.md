@@ -45,4 +45,8 @@ And I get some feedback
 
 # watersensor
 
+I attached the sensor to my breadboard and put it in a water glass
 
+![IMG_8974.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8974.jpg)  
+
+![IMG_8973.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8973.jpg)  
