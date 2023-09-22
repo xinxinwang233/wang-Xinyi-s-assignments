@@ -10,15 +10,11 @@
 ![IMG_8953.GIF](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8953.GIF)
 
 这是我编写的程序
-
-`int ledpin=11;                   // Set led pin at Arduino pin 11`  
-`int shocksensor=3;               // Set sensor pin at Arduino pin 8`  
-`int sensorvalue;                 // initialize variable to store sensor data  
-void setup()`  
-
-
-
-
+```
+int ledpin=11;                   // Set led pin at Arduino pin 11  
+int shocksensor=3;               // Set sensor pin at Arduino pin 8  
+int sensorvalue;                 // initialize variable to store sensor data  
+void setup()
 {
  pinMode(ledpin,OUTPUT);       // LED pin set to output
  pinMode(shocksensor,INPUT);  //shock sensor pin set to input
@@ -40,6 +36,9 @@ void loop()
  }
                  // delay 
 }
+
+```
+
 
 # watersensor
 
