@@ -11,6 +11,8 @@
 
 这是我编写的程序
 
+`<hello world>`
+
 int ledpin=11;                   // Set led pin at Arduino pin 11
 int shocksensor=3;               // Set sensor pin at Arduino pin 8
 int sensorvalue;                 // initialize variable to store sensor data
