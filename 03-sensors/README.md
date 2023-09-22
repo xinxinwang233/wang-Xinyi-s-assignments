@@ -1,5 +1,8 @@
 # shock sensor   
 This is a vibration sensor, it has a vcc pin, a gnd pin and a signal pin, I connected the signal pin to port 2. Also, I connected an LED to reflect whether the vibration sensor had a signal or not.  
+
+![IMG_8972.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8972.jpg)  
+
 ![IMG_8968.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8968.jpg)  
 When I vibrate this vibration sensor, the light on the sensor lights up accordingly, and in theory, it briefly sends out a signal.  
 ![IMG_8953.GIF](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8953.GIF)  
