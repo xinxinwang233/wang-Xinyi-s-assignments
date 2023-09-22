@@ -1,15 +1,9 @@
-# shock sensor 
-
-这是一个震动传感器，它有一个vcc引脚、一个gnd引脚和一个信号引脚，我把信号引脚连接在2号口。此外，我接了一个LED来反映震动传感器有信号或没有。
-
-
-![IMG_8968.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8968.jpg)
-
-当我震动这个震动传感器的时候，传感器上的提示灯会相应亮起，理论上来说，它短暂地发出一个信号。
-
-![IMG_8953.GIF](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8953.GIF)
-
-这是我编写的程序
+# shock sensor   
+This is a vibration sensor, it has a vcc pin, a gnd pin and a signal pin, I connected the signal pin to port 2. Also, I connected an LED to reflect whether the vibration sensor had a signal or not.  
+![IMG_8968.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8968.jpg)  
+When I vibrate this vibration sensor, the light on the sensor lights up accordingly, and in theory, it briefly sends out a signal.  
+![IMG_8953.GIF](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8953.GIF)  
+This is the code I wrote.  
 ```
 int ledpin=11;                   // Set led pin at Arduino pin 11  
 int shocksensor=3;               // Set sensor pin at Arduino pin 8  
@@ -37,7 +31,9 @@ void loop()
                  // delay 
 }
 
-```
+```  
+And I get some feedback  
+![IMG_8970.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/03-sensors/images/IMG_8970.jpg)  
 
 
 # watersensor
