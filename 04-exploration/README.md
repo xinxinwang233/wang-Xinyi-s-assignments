@@ -71,3 +71,9 @@ and that's how I feel right now.**
 
 ![9.jpeg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/04-exploration/9.jpeg)
 ![10.jpg](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/blob/main/04-exploration/10.jpg)
+
+
+看到的系统：
+阳光的强弱和大树上面菌类的生长的系统
+
+
