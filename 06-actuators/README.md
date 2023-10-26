@@ -1,10 +1,9 @@
-# Assignment's Title
+# LCD
 
-## Assignment's description
-Describe the assignment
+<img width="682" alt="截屏2023-10-26 13 38 42" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/efa57761-2f42-4b71-bb83-9402f81b0f74">
 
-## Documentation
-Describe the work you did to complete the assignment
+<img width="1155" alt="截屏2023-10-26 13 37 32" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/5c5d137d-071e-43ed-a622-a2d07bbf07a3">
+
 
 bullet point list
 * item one
