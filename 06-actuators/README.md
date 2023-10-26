@@ -4,39 +4,10 @@
 
 <img width="1155" alt="截屏2023-10-26 13 37 32" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/5c5d137d-071e-43ed-a622-a2d07bbf07a3">
 
-# 伺服电机
+# Servo
 
 <img width="1216" alt="截屏2023-10-26 13 43 55" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/f9da357a-5981-4c66-8cfe-5f5f9343be6b">
 
 <img width="998" alt="截屏2023-10-26 13 40 10" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/859a1361-b0ab-40e6-b111-173e0dae28c9">
 
 
-
-
-bullet point list
-* item one
-* item two
-* item three
-
-numbered list
-1. item one
-2. item two
-3. item three
-
-**bold text**
-
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
