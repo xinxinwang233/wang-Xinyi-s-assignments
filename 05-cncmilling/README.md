@@ -16,13 +16,15 @@
 * 把5v和GND的电线都画得宽一些，我这里都做成了0.6mm。默认的电线是0.254mm  
 
 完成了电路板之后，我会在AI里进行调整，比如加上边框、写上pcb的名字等。   
+最终我导出了三个非常清晰dpi999的png。分别是pcb的洞、边框和只需要切割铜层不切穿透的部份。
 我为它绘制了一个像面包一样的边框，在切割的时候我也发现了一些问题。  
 ![toastinohalf-01](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/ab70fcff-726c-4e56-8c66-04807c3ff103)  
 ![holestoastino-01](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/752e9f48-6198-47f0-a760-1214ce5bc2f6)  
 ![toastino-01](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/f2ae909e-5d26-448c-8c46-78b2076cb57c)  
+接下来你可以带着你的png来到这个网站
 *https://modsproject.org*  
 面包的边框与png文件的最大边缘重合，导致这个网站在生成切割文件的时候没有将边框的四周围连起来。因此，我重新制作了一个连起来的图片。  
-
+点击open program，来到机器对应的文件
 <img width="314" alt="截屏2023-10-26 12 51 47" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/51e41b3f-3a9e-4e41-9142-065d8f402a0a">
 
 
