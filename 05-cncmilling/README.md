@@ -29,5 +29,8 @@ Click open program to go to the corresponding file of the machine. At this time,
 <img width="1592" alt="截屏2023-10-26 13 23 07" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/f60ddced-abf0-4f59-a682-6a990d28d26e">  
 Finally click calculate, the website automatically downloads the file.  
 We go to the machine, we upload the file to the machine,  
+<img width="1077" alt="截屏2023-10-26 13 29 21" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/637cd892-f215-49fa-9be7-e5e012664b85">  
+![IMG_9278](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/b83c5792-9a5b-4096-b8ca-b74608ffdd65)
+
 
 
