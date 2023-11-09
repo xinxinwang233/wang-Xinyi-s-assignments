@@ -1,35 +1,3 @@
-# Assignment's Title
-
-## Assignment's description
-Describe the assignment
-
-## Documentation
-Describe the work you did to complete the assignment
-
-bullet point list
-* item one
-* item two
-* item three
-
-numbered list
-1. item one
-2. item two
-3. item three
-
-**bold text**
-
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+<img width="544" alt="截屏2023-11-09 12 53 59" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/79e7c078-b47e-4dae-8478-66fd0de862c2">
+<img width="544" alt="截屏2023-11-09 12 53 42" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/8ad248c2-3281-4677-a126-4b54c34bc54b">
+<img width="544" alt="截屏2023-11-09 12 53 52" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/cf133a41-9e13-436e-8bb7-e4f947f01815">
