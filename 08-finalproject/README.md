@@ -1,35 +1,7 @@
-# Assignment's Title
+# Final Project
 
-## Assignment's description
-Describe the assignment
+## pcb: fernsporeino
 
-## Documentation
-Describe the work you did to complete the assignment
+***JLC link***
 
-bullet point list
-* item one
-* item two
-* item three
-
-numbered list
-1. item one
-2. item two
-3. item three
-
-**bold text**
-
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+https://u.lceda.cn/join?type=project&key=5c8e20e8195e495293fc84f772aad46e&inviter=7e8bd668f5c34a3faca0e44cb1749f67
