@@ -43,6 +43,10 @@ void loop() {
   Serial.println(sensorReading);
 }
 ```
+***POSTER***
+<img width="695" alt="截屏2023-11-24 11 04 44" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/1f90987a-7dd6-4ecf-be08-a1151e5cabf5">
+
+
 
 ***Pictures***
 
