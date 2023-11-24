@@ -46,7 +46,8 @@ void loop() {
 
 ***POSTER***
 
-[poster_fernsporeino_compressed.pdf](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/files/13454774/poster_fernsporeino_compressed.pdf)
+<img width="730" alt="截屏2023-11-24 11 12 02" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/74b3a11c-2fe2-4f3c-ad4c-4ec105df50f8">
+
 
 
 
