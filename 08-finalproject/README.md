@@ -46,7 +46,8 @@ void loop() {
 
 ***POSTER***
 
-<img width="730" alt="截屏2023-11-24 11 12 02" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/74b3a11c-2fe2-4f3c-ad4c-4ec105df50f8">
+<img width="692" alt="截屏2023-11-24 11 25 35" src="https://github.com/xinxinwang233/wang-Xinyi-s-assignments/assets/144413765/344fdc6c-53c9-4951-81c4-8512ec0b9f39">
+
 
 [poster_fernsporeino_画板 1.pdf](https://github.com/xinxinwang233/wang-Xinyi-s-assignments/files/13454844/poster_fernsporeino_.1.pdf)
 
